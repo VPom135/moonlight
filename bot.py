@@ -59,7 +59,7 @@ async def liberar(ctx, *, role):
 
 @bot.command()
 async def id(ctx):
-	embed = discord.Embed(title="Identidade de XXX", color=0xad1328)
+	embed = discord.Embed(title="Identidade", color=0xad1328)
 	await ctx.send(embed=embed)
 
 
