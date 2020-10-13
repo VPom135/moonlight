@@ -1,0 +1,16 @@
+{
+	"script": [
+		{
+			"type": 0,
+			"cont": "Oi!"
+		},
+		{
+			"type": 1,
+			"time": 0.1
+		},
+		{
+			"type": 0,
+			"cont": "jehehsg"
+		}
+	]
+}
